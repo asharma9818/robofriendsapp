@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './Card';
-import CardList from './CardList';
-import App from './App';
-import { robots } from './robots';
+// import Card from './Card';
+// import CardList from './CardList';
+import App from './containers/App';
+// import { robots } from './robots';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 
